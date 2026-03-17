@@ -175,7 +175,7 @@ users.forEach((u) => greet(u));`;
   let displayDiff = $derived(filteredDiff());
 </script>
 
-<TrustBar sourceUrl="https://github.com/yourusername/text-diff" />
+<TrustBar sourceUrl="https://github.com/Griffin2/localcompare" />
 
 <div class="page-shell">
   <ToolHeader
